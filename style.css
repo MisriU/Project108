@@ -1,0 +1,51 @@
+body{
+    background-image: url("purple.gif");
+    background-size: cover;
+}
+
+h1{
+    color: lavenderblush;
+    font-family: fantasy;
+    font-style: bold;
+}
+
+h3{
+    color: lavenderblush;
+    font-family: fantasy;
+    font-style: bold;
+}
+
+h2{
+    color: lavenderblush;
+    font-family: fantasy;
+    font-style: bold;
+}
+
+#button1{
+    font-size: 27px;
+    background-color:lavenderblush;
+    color:blueviolet;
+    font-family: fantasy;
+}
+
+.copy_right_footer{
+    text-align: center;
+    bottom: 0;
+    text-shadow: 5px 5px 5px blueviolet;
+    position: fixed;
+    line-height: 3;
+    background-color: lavenderblush;
+    width: 100%;
+}
+
+#cat{
+    display: none;
+}
+
+#dog{
+    display: none;
+}
+
+#ear{
+    display: none;
+}
